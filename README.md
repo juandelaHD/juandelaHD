@@ -1,26 +1,10 @@
-<!DOCTYPE html>
-<html>
-<head>
-  <link href="https://fonts.googleapis.com/css2?family=Fira+Code:wght@400&display=swap" rel="stylesheet">
-  <style>
-    body {
-      font-family: 'Fira Code', monospace;
-    }
-    .centered {
-      text-align: center;
-      color: #008FF7;
-      font-size: 30px;
-    }
-  </style>
-</head>
-<body>
-  <h1 class="centered">Juan Martin de la Cruz</h1>
-</body>
-</html>
+<p style="text-align: center; color: #008FF7; font-size: 23px; font-family: 'Lucida Console'">
+  Juan Martin de la Cruz
+</p>
 
 <p align="center">
   <!-- Typing SVG by DenverCoder1 - https://github.com/DenverCoder1/readme-typing-svg -->
-  <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=26&pause=700&color=008FF7&center=true&vCenter=true&random=false&width=700&height=60&lines=Everyone+knows+me+as+'Jumas';Always+learning+new+things;Software+Engineering+Student;Programming+Tutor+at+Tutor.com;Algorithms+%26+data+structures+enthusiast;Skilled+in+debugging+complex+code+issues" alt="Typing SVG juandelaHD" /></a>
+  <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Lucida+Console&weight=500&size=26&pause=700&color=008FF7&center=true&vCenter=true&random=false&width=700&height=60&lines=Everyone+knows+me+as+'Jumas';Always+learning+new+things;Software+Engineering+Student;Programming+Tutor+at+Tutor.com;Algorithms+%26+data+structures+enthusiast;Skilled+in+debugging+complex+code+issues" alt="Typing SVG juandelaHD" /></a>
 </p>
 
 ---
