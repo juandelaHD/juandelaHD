@@ -19,7 +19,9 @@
 ### ⏳ Life
 
 :shipit: [Facultad de Ingeniería de la Universidad de Buenos Aires](https://www.fi.uba.ar/) - Software Engineering Student
+
 :shipit: [Algorithms and Programming 2 for the careers Computer Science Engineering and Systems Analysis](https://algoritmos-rw.github.io/algoritmos/) - Teaching assistant
+
 :shipit: [Tutor.com](tutor.com) - Programming Tutor
 
 #
