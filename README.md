@@ -22,7 +22,7 @@
 
 :shipit: [Algorithms and Programming 2 for the careers Computer Science Engineering and Systems Analysis](https://algoritmos-rw.github.io/algoritmos/) - Teaching assistant
 
-:shipit: [Tutor.com](tutor.com) - Programming Tutor
+:shipit: [Tutor.com](https://www.tutor.com/) - Programming Tutor
 
 #
 
