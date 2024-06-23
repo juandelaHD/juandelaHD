@@ -1,7 +1,3 @@
-<p style="text-align: center; color: #008FF7; font-size: 23px; font-family: 'Lucida Console'">
-  Juan Martin de la Cruz
-</p>
-
 <p align="center">
   <!-- Typing SVG by DenverCoder1 - https://github.com/DenverCoder1/readme-typing-svg -->
   <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Lucida+Console&weight=500&size=26&pause=700&color=008FF7&center=true&vCenter=true&random=false&width=700&height=60&lines=Everyone+knows+me+as+'Jumas';Always+learning+new+things;Software+Engineering+Student;Programming+Tutor+at+Tutor.com;Algorithms+%26+data+structures+enthusiast;Skilled+in+debugging+complex+code+issues" alt="Typing SVG juandelaHD" /></a>
@@ -21,13 +17,11 @@
 
 ### Hello World 
 
-![Up Wave GIF](https://tenor.com/wbi8.gif)
+<iframe src="https://giphy.com/embed/DHYNyjAqrqkzm" width="70" height="70" style="" frameBorder="0" class="giphy-embed" allowFullScreen></iframe><p><a href="https://giphy.com/gifs/hello-up-hi-DHYNyjAqrqkzm">via GIPHY</a></p>
 
 - :calling: Ask me about anything and everything!
 - :mailbox: How to reach me: message me at [jdelacruz@fi.uba.ar](jdelacruz@fi.uba.ar)
 - :camera: Fun fact: I love meeting new people and I am also a professional photographer.
-- 
-
 
 ### 🧰 Languages and Tools
 
