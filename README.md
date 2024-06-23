@@ -1,13 +1,20 @@
 <!DOCTYPE html>
-<html lang="es">
+<html>
 <head>
-    <meta charset="UTF-8">
-    <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <title>Nombre Centrado</title>
-    <link rel="stylesheet" href="https://fonts.googleapis.com/css2?family=Fira+Code:wght@400&display=swap">
+  <link href="https://fonts.googleapis.com/css2?family=Fira+Code:wght@400&display=swap" rel="stylesheet">
+  <style>
+    body {
+      font-family: 'Fira Code', monospace;
+    }
+    .centered {
+      text-align: center;
+      color: #008FF7;
+      font-size: 30px;
+    }
+  </style>
 </head>
 <body>
-    <p align="center" style="font-size: 26px; font-family: 'Fira Code'; color: #008FF7FF">Juan Martín de la Cruz</p>
+  <h1 class="centered">Juan Martin de la Cruz</h1>
 </body>
 </html>
 
@@ -30,7 +37,7 @@
 
 ### Hello World 
 
-![Up Wave GIF](https://tenor.com/es-419/view/up-wave-hi-hello-gif-5247616)
+![Up Wave GIF](https://tenor.com/wbi8.gif)
 
 - :calling: Ask me about anything and everything!
 - :mailbox: How to reach me: message me at [jdelacruz@fi.uba.ar](jdelacruz@fi.uba.ar)
@@ -62,8 +69,4 @@
 
 #
 
-<!-- Add top repositories -->
-
-<details>
-<summary><h3>👨‍💻 Jumas's Coding Journey</h3></summary>
-   Since a young age, my eagerness to solve minor issues ignited my passion for engineering. As a dedicated and driven student, I have an unquenchable desire for learning. I began my coding journey in my last year of high school with basic projects using "Scratch." This visual programming language made it easy to understand the fundamental concepts of coding, sparking my curiosity about how computers work and how to develop games or apps. This initial exposure led me to discover the field of Software Engineering, where I saw a clear path to turn my passion into a career. As I advanced in university, my understanding and love for software development grew deeper. The coursework was challenging but immensely rewarding. I found myself fascinated by algorithms, data structures, and the intricacies of software design. It wasn't long before I realized that sharing this knowledge could be just as fulfilling as acquiring it. This realization drove me to become a teaching assistant for the "Algorithms and Programming 2" course. The experience was transformative, as it honed my communication skills and deepened my understanding of the material. During this time, a friend introduced me to Tutor.com, an online platform where I could further my teaching aspirations by helping students from all over the world. This opportunity allowed me to refine my problem-solving skills and adapt my teaching methods to a diverse student base, enhancing both my technical and interpersonal abilities. In addition to teaching, I sought out ways to apply my skills in competitive environments. Along with three friends from university, I participated in several hackathons, including HackITBA, organized by the Instituto Tecnológico de Buenos Aires (ITBA). These competitions were exhilarating and provided practical experience in developing solutions under pressure. Working collaboratively in a team, brainstorming innovative ideas, and implementing them within tight deadlines was an invaluable experience that strengthened my ability to work in dynamic environments. These experiences collectively fueled my ambition to continually push the boundaries of my knowledge and skills. They reinforced my commitment to the field of software engineering and my desire to contribute meaningfully to technological advancements. Through teaching, tutoring, and participating in hackathons, I have developed a robust foundation that I am eager to build upon as I continue my coding journey.
+<details><summary><h3>👨‍💻 Jumas's Coding Journey</h3></summary> Since a young age, my eagerness to solve minor issues ignited my passion for engineering. As a dedicated and driven student, I have an unquenchable desire for learning. I began my coding journey in my last year of high school with basic projects using "Scratch." This visual programming language made it easy to understand the fundamental concepts of coding, sparking my curiosity about how computers work and how to develop games or apps. This initial exposure led me to discover the field of Software Engineering, where I saw a clear path to turn my passion into a career. As I advanced in university, my understanding and love for software development grew deeper. The coursework was challenging but immensely rewarding. I found myself fascinated by algorithms, data structures, and the intricacies of software design. It wasn't long before I realized that sharing this knowledge could be just as fulfilling as acquiring it. This realization drove me to become a teaching assistant for the "Algorithms and Programming 2" course. The experience was transformative, as it honed my communication skills and deepened my understanding of the material. During this time, a friend introduced me to Tutor.com, an online platform where I could further my teaching aspirations by helping students from all over the world. This opportunity allowed me to refine my problem-solving skills and adapt my teaching methods to a diverse student base, enhancing both my technical and interpersonal abilities. In addition to teaching, I sought out ways to apply my skills in competitive environments. Along with three friends from university, I participated in several hackathons, including HackITBA, organized by the Instituto Tecnológico de Buenos Aires (ITBA). These competitions were exhilarating and provided practical experience in developing solutions under pressure. Working collaboratively in a team, brainstorming innovative ideas, and implementing them within tight deadlines was an invaluable experience that strengthened my ability to work in dynamic environments. These experiences collectively fueled my ambition to continually push the boundaries of my knowledge and skills. They reinforced my commitment to the field of software engineering and my desire to contribute meaningfully to technological advancements. Through teaching, tutoring, and participating in hackathons, I have developed a robust foundation that I am eager to build upon as I continue my coding journey.
