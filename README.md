@@ -7,20 +7,22 @@
 
 ### 
 
-### ⏳ Life
-
-:shipit: [Facultad de Ingeniería de la Universidad de Buenos Aires](https://www.fi.uba.ar/) - Software Engineering Student
-
-:shipit: [Algorithms and Programming 2 for the careers Computer Science Engineering and Systems Analysis](https://algoritmos-rw.github.io/algoritmos/) - Teaching assistant
-
-:shipit: [Tutor.com](tutor.com) - Programming Tutor
-
-### Hello World <a href="https://github.com/sponsors/M0nica"><img align="left" width="100" height="100" src="utils/DHYNyjAqrqkzm.webp"></a>
+### Hello World! 🌍 <a href="https://github.com/sponsors/M0nica"><img align="left" width="110" height="110" src="utils/wave_hello_up.webp"></a>
 
 
 - :calling: Ask me about anything and everything!
 - :mailbox: How to reach me: message me at [jdelacruz@fi.uba.ar](jdelacruz@fi.uba.ar)
-- :camera: Fun fact: I love meeting new people and I am also a professional photographer.
+- :camera: Fun fact: I love meeting new people and I am also a [professional photographer](https://www.behance.net/juandelahd).
+
+#
+
+### ⏳ Life
+
+:shipit: [Facultad de Ingeniería de la Universidad de Buenos Aires](https://www.fi.uba.ar/) - Software Engineering Student
+:shipit: [Algorithms and Programming 2 for the careers Computer Science Engineering and Systems Analysis](https://algoritmos-rw.github.io/algoritmos/) - Teaching assistant
+:shipit: [Tutor.com](tutor.com) - Programming Tutor
+
+#
 
 ### 🧰 Languages and Tools
 
