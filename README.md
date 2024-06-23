@@ -15,9 +15,8 @@
 
 :shipit: [Tutor.com](tutor.com) - Programming Tutor
 
-### Hello World 
+### Hello World <a href="https://github.com/sponsors/M0nica"><img align="left" width="100" height="100" src="utils/DHYNyjAqrqkzm.webp"></a>
 
-<iframe src="https://giphy.com/embed/DHYNyjAqrqkzm" width="70" height="70" style="" frameBorder="0" class="giphy-embed" allowFullScreen></iframe><p><a href="https://giphy.com/gifs/hello-up-hi-DHYNyjAqrqkzm">via GIPHY</a></p>
 
 - :calling: Ask me about anything and everything!
 - :mailbox: How to reach me: message me at [jdelacruz@fi.uba.ar](jdelacruz@fi.uba.ar)
