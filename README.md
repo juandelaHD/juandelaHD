@@ -43,10 +43,20 @@
 
 #
 
+### 🐍 My Contributions
+
+<div align="center">
+  <br>
+  <img alt="snake eating my contributions" src="https://raw.githubusercontent.com/juandelaHD/juandelaHD/output/github-contribution-grid-snake.svg" />
+  <br/>
+</div>
+
+#
+
 ### 📊 Stats
 
-| <a href="https://github.com/anuraghazra/github-readme-stats"><img align="center" src="https://github-readme-stats.vercel.app/api?username=juandelaHD&show_icons=true&include_all_commits=true&theme=gruvbox&hide_border=true" alt="juandelaHD's github stats" /></a> | <a href="https://github.com/anuraghazra/github-readme-stats"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=juandelaHD&layout=compact&theme=gruvbox&hide_border=true" /></a> |
-| ------------- | ------------- |
+<img width=390 align="center" src="https://github-readme-stats-salesp07.vercel.app/api?username=juandelaHD&count_private=true&show_icons=true&theme=react&rank_icon=github&border_radius=10" alt="readme stats" />
+<img width=325 align="center" src="https://github-readme-stats-salesp07.vercel.app/api/top-langs/?username=juandelaHD&hide=HTML&langs_count=8&layout=compact&theme=react&border_radius=10&size_weight=0.5&count_weight=0.5&exclude_repo=github-readme-stats" alt="top langs" />
 
 #
 
