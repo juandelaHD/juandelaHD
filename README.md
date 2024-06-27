@@ -13,10 +13,9 @@
 #!/usr/bin/python
 # -*- coding: utf-8 -*-
 
-
 class SoftwareEngineer:
 
-    def __init__(self, name, c):
+    def __init__(self, name):
         self.name = name
         self.eager_to_learn = True
         self.eager_to_work = True
