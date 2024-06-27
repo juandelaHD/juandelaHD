@@ -7,13 +7,27 @@
 
 ### 
 
-### Hello World! 🌍 <a href="https://github.com/sponsors/M0nica"><img align="left" width="110" height="110" src="utils/wave_hello_up.webp"></a>
+### Hello World! 🌍 
+
+```python
+#!/usr/bin/python
+# -*- coding: utf-8 -*-
 
 
-- :calling: Ask me about anything and everything!
-- :mailbox: How to reach me: message me at [jdelacruz@fi.uba.ar](jdelacruz@fi.uba.ar)
-- :camera: Fun fact: I love meeting new people and I am also a [professional photographer](https://www.behance.net/juandelahd).
+class SoftwareEngineer:
 
+    def __init__(self, name, c):
+        self.name = name
+        self.eager_to_learn = True
+        self.eager_to_work = True
+        self.language_spoken = ["es_ES", "en_US"]
+
+    def say_hi(self):
+        print("Thanks for dropping by, hope you find some of my work interesting!")
+
+me = SoftwareEngineer("Juan Martín de la Cruz")
+me.say_hi()
+```
 #
 
 ### ⏳ Life
@@ -32,11 +46,11 @@
 <img align="left" alt="Git" width="40px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" />
 <img align="left" alt="GitHub" width="40px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" />
 <img align="left" alt="Bash" width="40px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bash/bash-original.svg" />
-<img align="left" alt="Java" width="40px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg"/>
 <img align="left" alt="Python" width="40px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-plain.svg" />
 <img align="left" alt="Go" width="40px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/go/go-original.svg" />
 <img align="left" alt="C" width="40px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/c/c-original.svg" />
 <img align="left" alt="C++" width="40px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/cplusplus/cplusplus-original.svg" />
+<img align="left" alt="Java" width="40px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg"/>
 <img align="left" alt="SDL" width="40px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/sdl/sdl-original.svg" />
 <img align="left" alt="QT" width="40px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/qt/qt-original.svg" />
 <br />
@@ -45,8 +59,12 @@
 
 ### 📊 Stats
 
-| <a href="https://github.com/anuraghazra/github-readme-stats"><img align="center" src="https://github-readme-stats.vercel.app/api?username=juandelaHD&show_icons=true&include_all_commits=true&theme=gruvbox&hide_border=true" alt="juandelaHD's github stats" /></a> | <a href="https://github.com/anuraghazra/github-readme-stats"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=juandelaHD&layout=compact&theme=gruvbox&hide_border=true" /></a> |
-| ------------- | ------------- |
+<p align="center">
+<a href="https://github.com/ArisGuimera">
+  <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=juandelaHD&show_icons=true&theme=algolia&include_all_commits=true&count_private=true"/>
+  <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=juandelaHD&layout=compact&langs_count=8&theme=algolia"/>
+</a>
+</p>
 
 #
 
