@@ -33,26 +33,31 @@ me.say_hi()
 
 :shipit: [Facultad de Ingeniería de la Universidad de Buenos Aires](https://www.fi.uba.ar/) - Software Engineering Student
 
-:shipit: [Algorithms and Programming 2 for the careers Computer Science Engineering and Systems Analysis](https://algoritmos-rw.github.io/algoritmos/) - Teaching assistant
+:shipit: [Algorithms and Programming 2 (Computer Science Engineering and Systems Analysis)](https://algoritmos-rw.github.io/algoritmos/) - Teaching Assistant  
 
 :shipit: [Tutor.com](https://www.tutor.com/) - Programming Tutor
 
 #
 
-### 🧰 Languages and Tools
+### 🚀 Technologies and Skills
 
-<img align="left" alt="Linux" width="40px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" />
-<img align="left" alt="Git" width="40px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" />
-<img align="left" alt="GitHub" width="40px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" />
-<img align="left" alt="Bash" width="40px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bash/bash-original.svg" />
-<img align="left" alt="Python" width="40px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-plain.svg" />
-<img align="left" alt="Go" width="40px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/go/go-original.svg" />
-<img align="left" alt="C" width="40px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/c/c-original.svg" />
-<img align="left" alt="C++" width="40px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/cplusplus/cplusplus-original.svg" />
-<img align="left" alt="Java" width="40px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg"/>
-<img align="left" alt="SDL" width="40px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/sdl/sdl-original.svg" />
-<img align="left" alt="QT" width="40px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/qt/qt-original.svg" />
-<br />
+#### 💻 **Operating Systems and IDEs**
+[![My Skills](https://skillicons.dev/icons?i=linux,windows,vscode&perline=7)](https://skillicons.dev)
+
+#### 🛠️ **Development and DevOps Tools**
+[![My Skills](https://skillicons.dev/icons?i=git,github,bash,docker,postman,cmake&perline=7)](https://skillicons.dev)
+
+#### 💻 **Programming Languages**
+[![My Skills](https://skillicons.dev/icons?i=py,java,c,cpp,go,js,ts&perline=7)](https://skillicons.dev)
+
+#### 🌐 **Web Development**
+[![My Skills](https://skillicons.dev/icons?i=html,css,react,nodejs,nestjs&perline=5)](https://skillicons.dev)
+
+#### 🗃️ **Databases**
+[![My Skills](https://skillicons.dev/icons?i=postgres,mysql,mongodb,firebase,supabase,prisma&perline=6)](https://skillicons.dev)
+
+#### 📦 **Other Tools**
+[![My Skills](https://skillicons.dev/icons?i=photoshop,premiere,latex&perline=6)](https://skillicons.dev)
 
 #
 
@@ -67,4 +72,6 @@ me.say_hi()
 
 #
 
-<details><summary><h3>👨‍💻 Jumas's Coding Journey</h3></summary> From a young age, my passion for solving problems ignited my interest in engineering. In my last year of high school, I began coding, which led me to discover Software Engineering. This field provided a clear path to turn my passion into a career.  At university, I delved deeper into software development, fascinated by algorithms, data structures, and software design. My desire to share knowledge led me to become a teaching assistant for the "Algorithms and Programming 2" course, where I honed my communication skills and understanding of the material. A friend introduced me to Tutor.com, allowing me to tutor students worldwide. This experience refined my problem-solving abilities and teaching methods. Additionally, I participated in hackathons, including HackITBA, gaining practical experience in developing solutions under pressure and working in dynamic teams. These experiences have fueled my ambition to push the boundaries of my knowledge and skills. They reinforced my commitment to software engineering and my desire to contribute to technological advancements. Through teaching, tutoring, and hackathons, I have built a solid foundation that I am eager to expand as I continue my coding journey. </details>
+<details><summary><h3>👨‍💻 Jumas's Coding Journey</h3></summary> From a young age, I’ve been passionate about solving problems, which naturally led me to discover Software Engineering during my final year of high school. At university, I deepened my understanding of algorithms, data structures, and software design, which solidified my interest in the field.
+Eager to share my knowledge, I became a teaching assistant for "Algorithms and Programming 2," refining my communication skills and reinforcing my grasp of the subject. I also tutored students worldwide through Tutor.com, further enhancing my problem-solving and teaching abilities.
+Participating in hackathons, such as HackITBA, gave me hands-on experience working in fast-paced, collaborative environments to develop practical solutions under pressure. These experiences have shaped my skills and fueled my drive to grow as a software engineer, contribute to impactful projects, and continue learning in this ever-evolving field. </details>
