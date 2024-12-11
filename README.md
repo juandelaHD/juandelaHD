@@ -29,7 +29,7 @@ me.say_hi()
 ```
 #
 
-<details><summary><h3>⏳ Life</h3></summary>
+### ⏳ Life
 
 :shipit: [Facultad de Ingeniería de la Universidad de Buenos Aires](https://www.fi.uba.ar/) - Software Engineering Student
 
@@ -37,10 +37,9 @@ me.say_hi()
 
 :shipit: [Tutor.com](https://www.tutor.com/) - Programming Tutor
 
-</details>
+#
 
-
-<details><summary><h3>🚀 Technologies and Skills</h3></summary>
+### 🚀 Technologies and Skills
 
 #### 💻 **Operating Systems and IDEs**
 [![My Skills](https://skillicons.dev/icons?i=linux,windows,vscode&perline=7)](https://skillicons.dev)
@@ -60,9 +59,9 @@ me.say_hi()
 #### 📦 **Other Tools**
 [![My Skills](https://skillicons.dev/icons?i=photoshop,premiere,latex&perline=6)](https://skillicons.dev)
 
-</details>
+#
 
-<details><summary><h3>📊 Stats</h3></summary>
+### 📊 Stats
 
 <p align="center">
 <a>
@@ -70,8 +69,6 @@ me.say_hi()
   <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=juandelaHD&layout=compact&langs_count=8&theme=algolia"/>
 </a>
 </p>
-
-</details>
 
 
 <details><summary><h3>👨‍💻 Jumas's Coding Journey</h3></summary> From a young age, I’ve been passionate about solving problems, which naturally led me to discover Software Engineering during my final year of high school. At university, I deepened my understanding of algorithms, data structures, and software design, which solidified my interest in the field.
