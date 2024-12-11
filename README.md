@@ -42,22 +42,22 @@ me.say_hi()
 ### 🚀 Technologies and Skills
 
 #### 💻 **Operating Systems and IDEs**
-[![My Skills](https://skillicons.dev/icons?i=linux,windows,vscode&perline=7)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=linux,windows,vscode)](https://skillicons.dev)
 
 #### 🛠️ **Development and DevOps Tools**
-[![My Skills](https://skillicons.dev/icons?i=git,github,bash,docker,postman,cmake&perline=7)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=git,github,bash,docker,postman,cmake)](https://skillicons.dev)
 
 #### 💻 **Programming Languages**
-[![My Skills](https://skillicons.dev/icons?i=py,java,c,cpp,go,js,ts&perline=7)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=py,java,c,cpp,go,js,ts)](https://skillicons.dev)
 
 #### 🌐 **Web Development**
-[![My Skills](https://skillicons.dev/icons?i=html,css,react,nodejs,nestjs&perline=5)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=html,css,react,nodejs,nestjs)](https://skillicons.dev)
 
 #### 🗃️ **Databases**
-[![My Skills](https://skillicons.dev/icons?i=postgres,mysql,mongodb,firebase,supabase,prisma&perline=6)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=postgres,mysql,mongodb,firebase,supabase,prisma)](https://skillicons.dev)
 
 #### 📦 **Other Tools**
-[![My Skills](https://skillicons.dev/icons?i=photoshop,premiere,latex&perline=6)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=photoshop,premiere,latex)](https://skillicons.dev)
 
 #
 
