@@ -39,7 +39,6 @@ me.say_hi()
 
 </details>
 
-#
 
 <details><summary><h3>🚀 Technologies and Skills</h3></summary>
 
@@ -63,8 +62,6 @@ me.say_hi()
 
 </details>
 
-#
-
 <details><summary><h3>📊 Stats</h3></summary>
 
 <p align="center">
@@ -76,7 +73,6 @@ me.say_hi()
 
 </details>
 
-#
 
 <details><summary><h3>👨‍💻 Jumas's Coding Journey</h3></summary> From a young age, I’ve been passionate about solving problems, which naturally led me to discover Software Engineering during my final year of high school. At university, I deepened my understanding of algorithms, data structures, and software design, which solidified my interest in the field.
 Eager to share my knowledge, I became a teaching assistant for "Algorithms and Programming 2," refining my communication skills and reinforcing my grasp of the subject. I also tutored students worldwide through Tutor.com, further enhancing my problem-solving and teaching abilities.
