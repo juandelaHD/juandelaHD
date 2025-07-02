@@ -72,6 +72,10 @@ me.say_hi()
 
 #
 
-<details><summary><h3>👨‍💻 Jumas's Coding Journey</h3></summary> From a young age, I’ve been passionate about solving problems, which naturally led me to discover Software Engineering during my final year of high school. At university, I deepened my understanding of algorithms, data structures, and software design, which solidified my interest in the field.
-Eager to share my knowledge, I became a teaching assistant for "Algorithms and Programming 2," refining my communication skills and reinforcing my grasp of the subject. I also tutored students worldwide through Tutor.com, further enhancing my problem-solving and teaching abilities.
-Participating in hackathons, such as HackITBA, gave me hands-on experience working in fast-paced, collaborative environments to develop practical solutions under pressure. These experiences have shaped my skills and fueled my drive to grow as a software engineer, contribute to impactful projects, and continue learning in this ever-evolving field. </details>
+<details><summary><h3>👨‍💻 Jumas's Coding Journey</h3></summary> 
+  From a young age, I’ve been passionate about solving problems, which naturally led me to discover Software Engineering during my final year of high school. At university, I deepened my understanding of algorithms, data structures, and software design, which solidified my interest in the field. 
+  Eager to share my knowledge, I became a teaching assistant for "Algorithms and Programming 2," refining my communication skills and reinforcing my grasp of the subject. I also tutored students worldwide through Tutor.com, further enhancing my problem-solving and teaching abilities.
+  Participating in hackathons, such as HackITBA, was eye-opening: working under pressure, collaborating with people from different backgrounds, and solving problems quickly—all of that helped me grow both technically and personally.
+  Thanks to these experiences, I have been able to lead and contribute to ambitious projects such as distributed systems for restaurants, platforms for managing soccer fields, web apps for scouting football players and even a remake of the classic game Jazz Jackrabbit 2 developed as a group project during my time at university. Each project has brought new challenges, allowing me to work with technologies like Rust, Java, C++, React, and more. 
+  Nowadays, I'm always looking for new challenges and opportunities to grow as an engineer, collaborate with passionate people, and create solutions that truly make a difference.
+   </details>
